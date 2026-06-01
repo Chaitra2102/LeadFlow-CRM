@@ -74,6 +74,6 @@ npm run dev
 
 ## Author
 
-Chaitra Sai
+Chaitra Sree
 
 Future Interns - Full Stack Web Development Task 2
